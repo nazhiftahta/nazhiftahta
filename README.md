@@ -36,6 +36,7 @@ me.say_hi()
 
 ---
 
+## **CONTACT ME**
 <div align="center">
 
 <a href="https://linkedin.com/in/nazhif-tahta" target="_blank">
