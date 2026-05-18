@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Nazhif+Tahta+'Aunillah+%F0%9F%91%8B;;Data+Scientist+|+AI+%26+ML+Engineer;Data+%26+AI+Enthusiast;Data+Science+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Nazhif+Tahta+'Aunillah+%F0%9F%91%8B;Data+Scientist+|+AI+%26+ML+Engineer;Data+%26+AI+Enthusiast;Data+Science+Practitioner)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 <p>
@@ -38,7 +38,25 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazhif-tahta) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aunillahtahta21@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tahtaaunillah) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/nazhiftahta/nazhiftahta.github.io) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazhiftahta_21)
+<a href="https://linkedin.com/in/nazhif-tahta" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aunillahtahta21@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/tahtaaunillah" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nazhiftahta/nazhiftahta.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/nazhiftahta_21" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
