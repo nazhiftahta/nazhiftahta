@@ -44,7 +44,7 @@ me.say_hi()
 
 ---
 
-## **TECK STACK**
+## **TECH STACK**
 
 * *Programming Languages*
 
@@ -70,7 +70,7 @@ me.say_hi()
 
 <div align="center">
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 </div>
 
@@ -110,7 +110,8 @@ me.say_hi()
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nazhiftahta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Nazhif Tahta GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazhiftahta&layout=compact&theme=github_dark&hide_border=true" alt="Nazhif Tahta Top Languages" />
+<a href="https://github.com/nazhiftahta">
+  <img src="https://img.shields.io/badge/GitHub-nazhiftahta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
 </div>
